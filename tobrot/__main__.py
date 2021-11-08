@@ -74,6 +74,7 @@ from tobrot.plugins.status_message_fn import (
 
 botcmds = [
         (f'{BotCommands.LeechCommand}','Leech Magnet/Torrent/Direct Download Links and upload to Telegram'),
+        (f'{BotCommands.gLeechCommand}','Leech Magnet/Torrent/Direct Download Links and upload to Cloud'),
         (f'{BotCommands.ExtractCommand}', 'Unarchive items and upload to telegram'),
         (f'{BotCommands.ArchiveCommand}','Archive as .tar.gz acrhive and upload to Telegram'),
         (f'{BotCommands.YtdlCommand}','upload yt-dlp supported video links to Telegram'),
