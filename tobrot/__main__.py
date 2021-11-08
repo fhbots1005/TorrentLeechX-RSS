@@ -101,7 +101,7 @@ if __name__ == "__main__":
                 f"{LEECH_COMMAND}", f"{LEECH_COMMAND}@{bot.username}",
                 LEECH_ZIP_COMMAND, f"{LEECH_ZIP_COMMAND}@{bot.username}",
                 LEECH_UNZIP_COMMAND, f"{LEECH_UNZIP_COMMAND}@{bot.username}",
-                GLEECH_COMMAND,
+                GLEECH_COMMAND, f"{GLEECH_COMMAND}@{bot.username}",
                 GLEECH_UNZIP_COMMAND,
                 GLEECH_ZIP_COMMAND,
             ]
